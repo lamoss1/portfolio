@@ -1,0 +1,30 @@
+.highlight {
+  background-color: silver;
+  font-size: 50px;
+  width: 70px;
+}
+#developer {
+  margin-left: 400px;
+  margin-right: 400px;
+}
+#contact {
+  margin-left: 400px;
+  margin-right: 400px;
+}
+#projects {
+  margin-left: 400px;
+  margin-right: 400px;
+}
+
+body {
+  background-color: mistyrose;
+  background-image: url(./Images/Sydney2.jpg);
+  background-position: 0px;
+}
+#portfolio1 {
+  margin-left: 400px;
+  margin-right: 400px;
+}
+.portfolio2 {
+  background-color: goldenrod;
+}
